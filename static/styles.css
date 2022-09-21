@@ -1,0 +1,19 @@
+body{
+    background-color: hsl(218, 23%, 16%);
+    font-family: 'Manrope', sans-serif;
+}
+
+.card{
+    width: 350px;
+    background-color: hsl(217, 19%, 24%);
+}
+
+.card-id{
+    font-size: 12px;
+    font-weight: 400;
+    color: hsl(150, 100%, 66%);
+}
+
+.card-advice{
+    color: hsl(193, 38%, 86%);
+}

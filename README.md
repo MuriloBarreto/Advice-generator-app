@@ -5,7 +5,7 @@ Projeto de uma aplicação deselvolvida em Flask, que consome uma API que retorn
 
 ### Links
 
-- Live Site URL: [Advice](https://your-live-site-url.com)
+- Live Site URL: [Advice](https://advice-generator-app2.herokuapp.com/)
 
 
 ### Built with
